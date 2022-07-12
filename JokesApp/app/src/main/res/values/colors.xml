@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- app palette -->
+    <color name="base">#CEB16C</color>
+    <color name="darker_base">#AA8A3B</color>
+    <color name="darkest_base">#886718</color>
+    <color name="lightest_base">#FFF2D1</color>
+    <color name="light_base">#F2DCA7</color>
+    <color name="base_complementary">#525C8D</color>
+    <color name="darker_base_complementary">#323C74</color>
+    <color name="darkest_base_complementary">#1A265D</color>
+    <color name="lightest_base_complementary">#A1A6BF</color>
+    <color name="light_base_complementary">#7880A5</color>
+
+</resources>

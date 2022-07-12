@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.JokesApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/base</item>
+        <item name="colorOnPrimary">@color/darkest_base</item>
+        <item name="colorSecondary">@color/base_complementary</item>
+        <item name="colorOnSecondary">@color/light_base_complementary</item>
+        <item name="colorAccent">@color/lightest_base_complementary</item>
+        <item name="colorSurface">@color/light_base</item>
+        <item name="colorOnSurface">@color/darker_base</item>
+        <item name="colorContainer">@color/lightest_base</item>
+    </style>
+
+    <style name="Theme.JokesApp" parent="Base.Theme.JokesApp" />
+
+    <style name="Theme.JokesApp.CategoryChip" parent="Widget.Material3.Chip.Filter.Elevated">
+        <!-- TODO: create -->
+    </style>
+</resources>
